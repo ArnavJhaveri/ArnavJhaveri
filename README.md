@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ArnavJhaveri
-- 🌱 I’m currently studying Computer Science and Data Science at the University of Pennsylvania
-- 📫 How to reach me arnavjha@seas.upenn.edu
+- 🌱 I recently graduated from the University of Pennsylvania with a B.A.S. in Computer Science and an M.S.E. in Data Science
+- 📫 How to reach me arnavjhaveri@alumni.upenn.edu
